@@ -22,7 +22,7 @@ A simple clone of the iOS calculator built using web technologies.
 Ensure you have the following installed on your development machine:
 
 - Node.js
-- npm (Node Package Manager)
+- Yarn (Node Package Manager)
 
 ### Installation
 
@@ -36,11 +36,11 @@ Ensure you have the following installed on your development machine:
     ```
 3. Install the dependencies:
     ```sh
-    npm install
+    yarn install
     ```
 
 ### Running the Application
 
 To start the application, run:
 ```sh
-npm start
+yarn start
